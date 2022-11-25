@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   tl_flutter_coms:
-    path: ../FlutterComps
+    path: ../tl_flutter_coms
 
 dev_dependencies:
   flutter_test:
